@@ -1,1 +1,1 @@
-abcd
+This was just testing for setting up Github repo directly from local machine.
